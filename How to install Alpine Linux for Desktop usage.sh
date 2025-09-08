@@ -146,7 +146,7 @@ reboot
 
 # ------------
 
-# BTW, some users hate pulseaudio, they like pipewire instead:
+# BTW, some users like pipewire instead:
 
 apk add pavucontrol pipewire wireplumber pipewire-pulse
 
