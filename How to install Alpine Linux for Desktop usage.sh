@@ -10,7 +10,7 @@
 # [type = root]
 # [login as root for the first time] 
 
-# [You can use su command to gain root access]
+# [You can use su command to gain root access later]
 
 su
 setup-alpine
