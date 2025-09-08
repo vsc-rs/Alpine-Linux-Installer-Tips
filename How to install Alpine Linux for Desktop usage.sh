@@ -153,5 +153,6 @@ reboot
 
 apk add pavucontrol pipewire wireplumber pipewire-pulse
 
+# But beware, you can use only one, choose between pulseaudio or pipewire, do not use both at the same time!
 
 
