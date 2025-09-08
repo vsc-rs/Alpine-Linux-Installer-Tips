@@ -1,3 +1,7 @@
+# Please read this file first. 
+# Do not execute :) 
+# Some parts you can execute using terminal!
+
 The Alpine Linux installation ISO uses root as the default user and an empty password. In order to login, just enter the username root and press return.
 
 
